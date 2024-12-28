@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15172491051",
+    "project_id": "fluttercourse-ce114",
+    "storage_bucket": "fluttercourse-ce114.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15172491051:android:0a7046b32653aea9ee176e",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15172491051-c286pjed85glm7icm72184l9adcv7coq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "0b881767b565a72e563037d8cab38080650cd9d1"
+          }
+        },
+        {
+          "client_id": "15172491051-pc34vmedn9nj85as1u4g9ml5ajd6t494.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBWnfCgxqWKTkpfMjZSCDhcBaJNbigioY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15172491051-pc34vmedn9nj85as1u4g9ml5ajd6t494.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
